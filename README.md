@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 * ![Yolov3 object detection with flask and tensorflow 2.0](https://github.com/Akashsindhu/AIes_object_detection)
 
 
-[![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akashsindhu&count_private=true)](https://github.com/Akashsindhu/Akashsindhu/edit/master/README.md)
+[![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akashsindhu&count_private=true&show_icons=true)](https://github.com/Akashsindhu/Akashsindhu/edit/master/README.md)
