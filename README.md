@@ -22,5 +22,10 @@ Here are some ideas to get you started:
 * ![To-do website just like google keep](https://github.com/Akashsindhu/Twodo/blob/master/README.md)
 * ![Yolov3 object detection with flask and tensorflow 2.0](https://github.com/Akashsindhu/AIes_object_detection)
 
+<br />
 
-[![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akashsindhu&count_private=true&show_icons=true&hide=stars&theme=tokyonight)](https://github.com/Akashsindhu/Akashsindhu/edit/master/README.md)
+:zap: Github Stats
+<br />
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akashsindhu&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
+
+
