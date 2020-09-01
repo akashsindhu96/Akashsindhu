@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 * ![End to End House Price Prediction application that can take HTTP request from the webpage and predict the output](https://github.com/Akashsindhu/House-price-prediction)
 * ![To-do website just like google keep](https://github.com/Akashsindhu/Twodo/blob/master/README.md)
 * ![Yolov3 object detection with flask and tensorflow 2.0](https://github.com/Akashsindhu/AIes_object_detection)
+
+
+[![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akashsindhu)](https://github.com/Akashsindhu/Akashsindhu/edit/master/README.md)
