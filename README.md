@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 
 ### Skills
 
-Algorithms: Machine learning algorithms, Deep learning algorithms
-Packages and libraries: Keras, Scikit-learn, Pandas, Numpy, OpenCV, Matplotlib
-MLOps technologies: Flask, Nginx, Gunicorn
-Languages: Python
-Version Control: Git
+* Algorithms: Machine learning algorithms, Deep learning algorithms
+* Packages and libraries: Keras, Scikit-learn, Pandas, Numpy, OpenCV, Matplotlib
+* MLOps technologies: Flask, Nginx, Gunicorn
+* Languages: Python
+* Version Control: Git
 
 ### Visit my projects
-![MNIST Accuracy: 99.07](https://github.com/Akashsindhu/MNIST)
+![MNIST Accuracy: 99.07%](https://github.com/Akashsindhu/MNIST)
