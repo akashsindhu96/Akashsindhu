@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**Akashsindhu/Akashsindhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Machine learning enthusiast with an interest in Data Science, End-to-End Deep learning, and MLOps.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on publishing more MLOps (fully end-to-end) projects.
+- 🌱 I’m currently learning Flask, Nginx, Gunicorn.
+- 👯 I’m looking to collaborate on new projects related to Deep learning.
+- 📫 How to reach me: akashsindhu96@gmail.com
+- 😄 Pronouns: He/Him
+
+### Skills
+
+Algorithms: Machine learning algorithms, Deep learning algorithms
+Packages and libraries: Keras, Scikit-learn, Pandas, Numpy, OpenCV, Matplotlib
+MLOps technologies: Flask, Nginx, Gunicorn
+Languages: Python
+Version Control: Git
+
+### Visit my projects
+![MNIST Accuracy: 99.07](https://github.com/Akashsindhu/MNIST)
