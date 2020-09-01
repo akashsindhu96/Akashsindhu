@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <br />
 
 :zap: Github Stats
-
 <br />
 
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akashsindhu&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
