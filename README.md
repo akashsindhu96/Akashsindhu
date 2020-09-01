@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ### Projects I have worked on
 * ![MNIST Accuracy: 99.07%](https://github.com/Akashsindhu/MNIST)
 * ![End to End House Price Prediction application that can take HTTP request from the webpage and predict the output](https://github.com/Akashsindhu/House-price-prediction)
+* ![To-do website just like google keep](https://github.com/Akashsindhu/Twodo/blob/master/README.md)
+* ![Yolov3 object detection with flask and tensorflow 2.0](https://github.com/Akashsindhu/AIes_object_detection)
