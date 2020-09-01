@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: akashsindhu96@gmail.com
 - 😄 Pronouns: He/Him
 
-### Skills
+### Skills I care about
 
 * Algorithms: Machine learning algorithms, Deep learning algorithms
 * Packages and libraries: Keras, Scikit-learn, Pandas, Numpy, OpenCV, Matplotlib
@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 * Languages: Python
 * Version Control: Git
 
-### Visit my projects
-![MNIST Accuracy: 99.07%](https://github.com/Akashsindhu/MNIST)
+### Projects I have worked on
+* ![MNIST Accuracy: 99.07%](https://github.com/Akashsindhu/MNIST)
+* ![End to End House Price Prediction application that can take HTTP request from the webpage and predict the output](https://github.com/Akashsindhu/House-price-prediction)
