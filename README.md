@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 ### Skills I care about
 
 * Algorithms: Machine learning algorithms, Deep learning algorithms
-* Packages and libraries: Keras, Scikit-learn, Pandas, Numpy, OpenCV, Matplotlib
+* Packages and libraries: Keras, Scikit-learn, Pandas, Numpy, OpenCV, Matplotlib, Dash
+* Big data technologies: Map-reduce, Apache Spark, Apache Cassandra
 * MLOps technologies: Flask, Nginx, Gunicorn
 * Languages: Python
 * Version Control: Git
@@ -21,6 +22,9 @@ Here are some ideas to get you started:
 * [End to End House Price Prediction application that can take HTTP request from the webpage and predict the output](https://github.com/Akashsindhu/House-price-prediction)
 * [To-do website just like google keep](https://github.com/Akashsindhu/Twodo/blob/master/README.md)
 * [Yolov3 object detection with flask and tensorflow 2.0](https://github.com/Akashsindhu/AIes_object_detection)
+* [Apache Spark practice tutorials](https://github.com/Akashsindhu/CMPT-732-Programming-for-Big-Data-1)
+* [Machine Learning practice tutorials for beginner](https://github.com/Akashsindhu/cmpe-188)
+* [Classify objects in videos](https://github.com/Akashsindhu/Classify_objects_in_video)
 
 <br />
 
